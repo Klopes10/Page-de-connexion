@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+
+html, body {
+    font-size: 16px;
+    margin:0;
+    height: 100%;
+}
+
+body{
+    background-image:url("netflix.png") ;
+    background-size: cover;
+    
+}
+
+h1 {
+    color:white;
+}
